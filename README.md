@@ -1,6 +1,6 @@
 # codechef
 
-This repository contains solutions to the [codechef](www.codechef.com) implemented in C++. Some of the solutions here are partially accepted or incorrect.
+This repository contains solutions to the [codechef](https://www.codechef.com/) implemented in C++. Some of the solutions here are partially accepted or incorrect.
 
 # How This Respositoy is Organized
 
